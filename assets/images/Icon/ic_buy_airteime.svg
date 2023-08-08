@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.439" height="48.906" viewBox="0 0 31.439 48.906">
+  <g id="ic_buy_airteime" transform="translate(14548 10830.25)">
+    <circle id="Ellipse_2839" data-name="Ellipse 2839" cx="3" cy="3" r="3" transform="translate(-14535.28 -10793.797)" fill="#ec1b24"/>
+    <path id="Path_22990" data-name="Path 22990" d="M82.2,16H61.24A5.262,5.262,0,0,0,56,21.24V59.666a5.262,5.262,0,0,0,5.24,5.24H82.2a5.262,5.262,0,0,0,5.24-5.24V21.24A5.262,5.262,0,0,0,82.2,16Zm1.747,43.666A1.747,1.747,0,0,1,82.2,61.413H61.24a1.747,1.747,0,0,1-1.747-1.747V21.24a1.747,1.747,0,0,1,1.747-1.747H82.2a1.747,1.747,0,0,1,1.747,1.747Z" transform="translate(-14604 -10846.25)" fill="#2c3e50"/>
+    <circle id="Ellipse_2840" data-name="Ellipse 2840" cx="0.734" cy="0.734" r="0.734" transform="translate(-14526.879 -10823)" fill="#ec1b24"/>
+    <path id="Path_22991" data-name="Path 22991" d="M206.7,95.39H196.1c-.266,0-.481.329-.481.734s.216.734.481.734h10.6c.266,0,.481-.329.481-.734S206.966,95.39,206.7,95.39Z" transform="translate(-14735.607 -10918.39)" fill="#ec1b24"/>
+  </g>
+</svg>

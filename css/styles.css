@@ -1,0 +1,40 @@
+ * {
+     box-sizing: border-box;
+     padding: 0;
+     margin: 0;
+ }
+
+ main {
+     height: 100vh;
+     width: 100%;
+ }
+
+ .navbar-toggler {
+     border: 0px;
+ }
+
+ section {
+     padding-top: 6rem;
+ }
+
+ .sec-img img {
+     width: 80%;
+ }
+
+.esm:hover {
+    background-color: #e40000 !important;
+    color: white;
+}
+
+ .footer-sec {
+    background-color: rgb(10, 10, 10);
+ }
+ .footer-sec section div input {
+    height: 4rem;
+    padding: 0 1rem;
+    outline: none;
+ }
+ #cookies-terms {
+    border-radius: 1rem;
+    padding: 0 1rem;
+ }
